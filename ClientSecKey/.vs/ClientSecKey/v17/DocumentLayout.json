@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RsaCrypto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\RsaCrypto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RespondFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\RespondFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RespondCodec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\RespondCodec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RespondCodec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\RespondCodec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\BaseShm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\BaseShm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\ClientOP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\ClientOP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\Hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Hash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\Hash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Message.pb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\Message.pb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Message.pb.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\Message.pb.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Message.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\Message.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\ClientOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2308DA5C-DE4F-451C-BE19-74B3F5BEB2D8}|ClientSecKey\\ClientSecKey.vcxproj|solutionrelative:ClientSecKey\\ClientOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RsaCrypto.cpp",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RsaCrypto.cpp",
+              "RelativeDocumentMoniker": "ClientSecKey\\RsaCrypto.cpp",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RsaCrypto.cpp",
+              "RelativeToolTip": "ClientSecKey\\RsaCrypto.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T02:32:35.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RespondFactory.h",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RespondFactory.h",
+              "RelativeDocumentMoniker": "ClientSecKey\\RespondFactory.h",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RespondFactory.h",
+              "RelativeToolTip": "ClientSecKey\\RespondFactory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T02:32:33.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RespondCodec.cpp",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RespondCodec.cpp",
+              "RelativeDocumentMoniker": "ClientSecKey\\RespondCodec.cpp",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RespondCodec.cpp",
+              "RelativeToolTip": "ClientSecKey\\RespondCodec.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T02:32:32.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RespondCodec.h",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RespondCodec.h",
+              "RelativeDocumentMoniker": "ClientSecKey\\RespondCodec.h",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\RespondCodec.h",
+              "RelativeToolTip": "ClientSecKey\\RespondCodec.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T02:32:30.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseShm.h",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\BaseShm.h",
+              "RelativeDocumentMoniker": "ClientSecKey\\BaseShm.h",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\BaseShm.h",
+              "RelativeToolTip": "ClientSecKey\\BaseShm.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T02:32:24.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientOP.h",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\ClientOP.h",
+              "RelativeDocumentMoniker": "ClientSecKey\\ClientOP.h",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\ClientOP.h",
+              "RelativeToolTip": "ClientSecKey\\ClientOP.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T02:32:19.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hash.cpp",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Hash.cpp",
+              "RelativeDocumentMoniker": "ClientSecKey\\Hash.cpp",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Hash.cpp",
+              "RelativeToolTip": "ClientSecKey\\Hash.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T02:32:17.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hash.h",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Hash.h",
+              "RelativeDocumentMoniker": "ClientSecKey\\Hash.h",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Hash.h",
+              "RelativeToolTip": "ClientSecKey\\Hash.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T02:32:11.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\main.cpp",
+              "RelativeDocumentMoniker": "ClientSecKey\\main.cpp",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\main.cpp",
+              "RelativeToolTip": "ClientSecKey\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T02:32:08.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Message.pb.cc",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Message.pb.cc",
+              "RelativeDocumentMoniker": "ClientSecKey\\Message.pb.cc",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Message.pb.cc",
+              "RelativeToolTip": "ClientSecKey\\Message.pb.cc",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T02:32:04.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Message.pb.h",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Message.pb.h",
+              "RelativeDocumentMoniker": "ClientSecKey\\Message.pb.h",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Message.pb.h",
+              "RelativeToolTip": "ClientSecKey\\Message.pb.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T02:32:02.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Message.proto",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Message.proto",
+              "RelativeDocumentMoniker": "ClientSecKey\\Message.proto",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\Message.proto",
+              "RelativeToolTip": "ClientSecKey\\Message.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-04-19T02:31:56.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientOP.cpp",
+              "DocumentMoniker": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\ClientOP.cpp",
+              "RelativeDocumentMoniker": "ClientSecKey\\ClientOP.cpp",
+              "ToolTip": "D:\\WorkSpace\\C\u002B\u002BProject\\\u7B2C5\u9636\u6BB5-\u8DE8\u5E73\u53F0\u4F01\u4E1A\u9879\u76EE\u5B9E\u6218\\day12 - \u5916\u8054\u63A5\u53E3-\u9879\u76EE\u603B\u7ED3\\04-\u4EE3\u7801\\ClientSecKey\\ClientSecKey\\ClientOP.cpp",
+              "RelativeToolTip": "ClientSecKey\\ClientOP.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAADwv0MAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T02:31:11.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
